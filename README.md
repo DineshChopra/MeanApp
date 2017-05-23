@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Download Mongodb
 
 
@@ -36,3 +37,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 npm install --save mongoose
 npm install --save mongoose-unique-validator
+=======
+# MeanApp
+MeanApp (App used Mongodb, express, angular 2/4 and node.js)
+>>>>>>> 008d4c3059d29a62c9c3953a7fd90691a8f51b11
